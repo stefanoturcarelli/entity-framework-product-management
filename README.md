@@ -1,7 +1,7 @@
 # Product Management
 
-![image](https://github.com/stefanoturcarelli/stefanoturcarelli-product-management-entity-framework/assets/67341828/a0b56d29-f8e0-4e71-8087-64f5adc1f23a)
+![image](https://github.com/stefanoturcarelli/entity-framework-product-management/assets/67341828/a1397ade-c261-4618-934d-5d9305ffd052)
 
-![image](https://github.com/stefanoturcarelli/stefanoturcarelli-product-management-entity-framework/assets/67341828/350b1b0f-d3d5-4d3a-9df3-1cd9bd5732c7)
+![image](https://github.com/stefanoturcarelli/entity-framework-product-management/assets/67341828/3b64a141-5371-4482-843f-09af99cd3c40)
 
-![image](https://github.com/stefanoturcarelli/stefanoturcarelli-product-management-entity-framework/assets/67341828/ed347a8b-49b4-408a-9964-5a8e0c2c66d2)
+![image](https://github.com/stefanoturcarelli/entity-framework-product-management/assets/67341828/e9d445b9-be99-4f25-9163-08ce94f27813)
