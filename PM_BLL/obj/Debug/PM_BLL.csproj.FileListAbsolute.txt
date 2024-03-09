@@ -1,0 +1,17 @@
+C:\GitHub\product-management-entity-framework\PM_BLL\bin\Debug\PM_BLL.dll
+C:\GitHub\product-management-entity-framework\PM_BLL\bin\Debug\PM_BLL.pdb
+C:\GitHub\product-management-entity-framework\PM_BLL\bin\Debug\AutoMapper.dll
+C:\GitHub\product-management-entity-framework\PM_BLL\bin\Debug\PM_DAL.dll
+C:\GitHub\product-management-entity-framework\PM_BLL\bin\Debug\System.ValueTuple.dll
+C:\GitHub\product-management-entity-framework\PM_BLL\bin\Debug\EntityFramework.dll
+C:\GitHub\product-management-entity-framework\PM_BLL\bin\Debug\PM_DAL.pdb
+C:\GitHub\product-management-entity-framework\PM_BLL\bin\Debug\PM_DAL.dll.config
+C:\GitHub\product-management-entity-framework\PM_BLL\bin\Debug\AutoMapper.pdb
+C:\GitHub\product-management-entity-framework\PM_BLL\bin\Debug\AutoMapper.xml
+C:\GitHub\product-management-entity-framework\PM_BLL\bin\Debug\System.ValueTuple.xml
+C:\GitHub\product-management-entity-framework\PM_BLL\bin\Debug\EntityFramework.xml
+C:\GitHub\product-management-entity-framework\PM_BLL\obj\Debug\PM_BLL.csproj.AssemblyReference.cache
+C:\GitHub\product-management-entity-framework\PM_BLL\obj\Debug\PM_BLL.csproj.CoreCompileInputs.cache
+C:\GitHub\product-management-entity-framework\PM_BLL\obj\Debug\PM_BLL.csproj.CopyComplete
+C:\GitHub\product-management-entity-framework\PM_BLL\obj\Debug\PM_BLL.dll
+C:\GitHub\product-management-entity-framework\PM_BLL\obj\Debug\PM_BLL.pdb
